@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "8d4ff1ecdeb5979a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bf6304f0b2c754a",
+        "type": "leaf",
+        "dimension": 68.83408071748879,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "diary/2022-02-22.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e45e57bca5da21d5",
+        "type": "leaf",
+        "dimension": 31.16591928251121,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c96bee4d12565bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e61125d24de86ada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eafecb0b3a24b400",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9711fdd9d85dd394",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6cc8413c0c6fd8c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 476.0121879577637
+  },
+  "right": {
+    "id": "f0af34042a7a6fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "526ae028d216b0fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcb013d9001921f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "diary/2022-02-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7bf6304f0b2c754a",
+  "lastOpenFiles": [
+    "diary/2022-02-22.md",
+    "Untitled.md",
+    "toDO.md",
+    "месяц до др.md",
+    "Untitled 5.md",
+    "Thooughts.md",
+    "testing notes.md",
+    "Olya.md",
+    "old.md",
+    "new.md"
+  ]
+}

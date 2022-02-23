@@ -1,0 +1,1 @@
+https://public.amplenote.com/QNYY3W/printable-shortcuts-macos#___Navigation

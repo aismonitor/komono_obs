@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "tabSize": 6,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "autoPairMarkdown": false,
+  "smartIndentList": true,
+  "autoPairBrackets": false,
+  "promptDelete": false
+}
